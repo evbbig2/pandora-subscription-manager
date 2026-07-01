@@ -1,0 +1,1 @@
+# pandora-subscription-manager
